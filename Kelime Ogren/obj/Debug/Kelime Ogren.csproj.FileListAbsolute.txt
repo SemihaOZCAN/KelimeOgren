@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\bin\Debug\Kelime Ogren.exe.config
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\bin\Debug\Kelime Ogren.exe
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\bin\Debug\Kelime Ogren.pdb
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime_Ogren.Form1.resources
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime_Ogren.Properties.Resources.resources
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.exe
+C:\Users\Semiha\Desktop\Kelime Ogren\Kelime Ogren\obj\Debug\Kelime Ogren.pdb

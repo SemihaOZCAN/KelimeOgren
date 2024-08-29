@@ -1,0 +1,6 @@
+Kelime Öğren Prog.
+****************************
+Kelime Öğren Programı, kullanıcıların İngilizce ve Türkçe kelimeleri öğrenmelerine yardımcı olan bir uygulamadır.
+ Program, rastgele seçilen bir İngilizce kelimenin Türkçe karşılığını doğru girme süresi olarak 90 saniye sunar.
+ Kullanıcı, doğru cevapladığı kelime sayısını takip edebilir ve süre dolduğunda otomatik olarak kapanır. 
+Bu şekilde, kelime bilgisi eğlenceli ve etkileşimli bir şekilde test edilir. Ayrıca her yeni kelimede arka plan rengi değişerek program daha eğlenceli hale gelmekte...
